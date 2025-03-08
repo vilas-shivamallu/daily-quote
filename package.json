@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A single-page application that displays quotes as cards with a refresh button.",
   "main": "src/index.js",
+  "homepage": "https://vilas-shivamallu.github.io/daily-quote",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
