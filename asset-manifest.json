@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daily-quote/static/css/main.51a24213.css",
+    "main.js": "/daily-quote/static/js/main.13d616de.js",
+    "index.html": "/daily-quote/index.html",
+    "main.51a24213.css.map": "/daily-quote/static/css/main.51a24213.css.map",
+    "main.13d616de.js.map": "/daily-quote/static/js/main.13d616de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a24213.css",
+    "static/js/main.13d616de.js"
+  ]
+}
